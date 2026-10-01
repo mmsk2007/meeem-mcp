@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "meeem": {
+      "type": "http",
+      "url": "https://www.meeem.ai/mcp"
+    }
+  }
+}

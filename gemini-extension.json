@@ -1,0 +1,11 @@
+{
+  "name": "meeem",
+  "version": "0.1.0",
+  "description": "Build and edit Meeem websites, apps and browser games, inspect quota and manage owned app visibility.",
+  "mcpServers": {
+    "meeem": {
+      "httpUrl": "https://www.meeem.ai/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

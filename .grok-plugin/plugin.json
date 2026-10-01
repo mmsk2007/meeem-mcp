@@ -1,0 +1,13 @@
+{
+  "name": "meeem",
+  "version": "0.1.0",
+  "description": "Build and edit Meeem websites, apps and browser games, inspect quota and manage owned app visibility.",
+  "author": {
+    "name": "Dello AI FZC"
+  },
+  "homepage": "https://www.meeem.ai",
+  "license": "MIT",
+  "keywords": [
+    "meeem"
+  ]
+}
